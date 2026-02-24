@@ -1,118 +1,145 @@
 # digital-health-hub-Malaysia
 Curated resource hub for digital health innovation in Malaysia - research, insights, and market intelligence for healthcare builders
-# 🏥 Digital Health Hub Malaysia
+# Digital Health Malaysia: A Practitioner's Guide
 
-> Your curated guide to digital health innovation in Malaysia and beyond
+> Understanding Malaysia's digital health landscape, learning from international benchmarks, and identifying opportunities for healthcare practitioners
 
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/last%20updated-February%202026-blue)]()
+![Last Updated](https://img.shields.io/badge/last%20updated-February%202026-blue)
+![Documents](https://img.shields.io/badge/documents-25+-green)
+
+**📖 [Read on GitBook](https://your-gitbook-url.com)** (Better reading experience)
 
 ---
 
-## 🎯 What This Is
+## 🎯 Mission
 
-A comprehensive, living resource hub for anyone building, investing in, or researching digital health in Malaysia. Created by a doctor-turned-health-informatician, this repository bridges clinical practice with technology innovation.
-
-**What makes this different:**
-- 🇲🇾 **Malaysian context**: How global trends apply locally
-- 🩺 **Clinical lens**: Practitioner's perspective, not just tech/business
-- 📊 **Evidence-based**: Backed by research, not hype
-- 🔄 **Living document**: Continuously updated
-- 🎓 **Educational**: Helps students, founders, investors understand the landscape
+To help Malaysian healthcare practitioners and digital health enthusiasts understand the current state of digital health innovation in our country, identify gaps compared to developed markets, and learn from successful international models.
 
 ## 👥 Who This Is For
 
-- 🚀 **Health tech founders** researching markets and opportunities
-- 💼 **Aspiring product managers** entering health tech
-- 👨‍⚕️ **Healthcare professionals** exploring tech careers
-- 💰 **Investors** evaluating digital health opportunities
-- 🎓 **Students** in health informatics, public health, medicine
-- 🏛️ **Government officials** shaping digital health policy
+- 👨‍⚕️ **Healthcare practitioners** exploring digital health careers (doctors, nurses, pharmacists)
+- 🎓 **Health informatics students** needing comprehensive reference material
+- 🚀 **Aspiring health tech founders** from healthcare backgrounds
+- 💼 **Product managers** entering the health tech space
 
 ## 📚 What's Inside
 
-### 1️⃣ [Malaysian Landscape](/01-landscape)
-The digital health ecosystem in Malaysia - key players, government initiatives, funding landscape, and market opportunities.
+### Part 1: Malaysian Digital Health Today
+Comprehensive overview of Malaysia's digital health ecosystem:
+- Current landscape and key players
+- Government initiatives (MyHIX, MOH strategy)
+- Regulatory environment (MDA, PDPA, MMC)
+- Challenges and academic research
 
-### 2️⃣ [Domains Deep Dives](/02-domains)
-In-depth explorations of:
+**Start here:** [Overview of Malaysian Digital Health](/part-1-malaysian-landscape/00-overview.md)
+
+### Part 2: Learning from International Benchmarks
+Deep dives into successful models from developed markets:
+
+**🏥 Rehabilitation Technology** *(Featured - curator's expertise)*
+- Virtual/digital rehabilitation overview
+- Technology approaches (computer vision, wearables, VR)
+- Case studies: Sword Health, Hinge Health
+- Clinical evidence and Malaysia applications
+
+**📱 Other Domains:**
 - Telemedicine
-- Digital Therapeutics
-- Remote Patient Monitoring
-- AI Diagnostics
-- Rehabilitation Technology
+- Chronic disease management
+- Mental health digital solutions
 
-### 3️⃣ [Technology Stack](/03-technology)
-Technical considerations for building digital health products - frameworks, architectures, deployment strategies.
+### Part 3: Opportunities & Gaps
+Analysis and recommendations:
+- Comparative analysis (Malaysia vs. developed markets)
+- Identified gaps and white space
+- Opportunities for practitioners
+- Skills needed to enter the space
+- Future outlook
 
-### 4️⃣ [Regulations & Compliance](/04-regulations)
-Navigating Malaysian and international regulatory requirements - MDA, PDPA, FDA, CE marking, reimbursement.
+### Resources
+Curated learning materials:
+- Key papers and research
+- Organizations and communities
+- Courses and conferences
 
-### 5️⃣ [Business Models](/05-business-models)
-Revenue strategies that work in healthcare - B2C, B2B, B2G, insurance partnerships, unit economics.
+## 🌟 How to Use This Guide
 
-### 6️⃣ [Evidence & Research](/06-evidence-research)
-Key papers, clinical evidence, effectiveness data for digital health interventions.
+**If you're a healthcare practitioner exploring digital health:**
+1. Start with [Malaysian Landscape Overview](/part-1-malaysian-landscape/00-overview.md)
+2. Read [Opportunities for Practitioners](/part-3-opportunities-and-gaps/03-opportunities-for-practitioners.md)
+3. Explore domains that interest you in Part 2
 
-### 7️⃣ [Case Studies](/07-case-studies)
-Deep dives into successful (and failed) digital health companies - both Malaysian and international.
+**If you're a student researching digital health:**
+1. Read the complete Part 1 for Malaysia context
+2. Deep dive into specific domains in Part 2
+3. Use Resources section for further reading
 
-### 8️⃣ [Market Intelligence](/08-market-intelligence)
-Funding deals, hiring trends, salary benchmarks, growth metrics.
-
-### 9️⃣ [Tools & Resources](/09-tools-resources)
-Databases, conferences, communities, courses, newsletters.
-
-### 🔟 [Insights & Commentary](/10-insights)
-Monthly updates and opinion pieces on digital health trends.
-
-## 🌟 Featured Content
-
-**Start here if you're new:**
-1. [Malaysian Digital Health Ecosystem Overview](/01-landscape/malaysian-digital-health-ecosystem.md)
-2. [Telemedicine in Malaysia: Opportunities & Challenges](/02-domains/telemedicine/overview.md)
-3. [Virtual Rehabilitation Technology: Market Analysis](/02-domains/rehabilitation-technology/market-analysis.md)
-4. [Naluri Case Study: Building Malaysia's Mental Health Unicorn](/07-case-studies/malaysian/naluri.md)
+**If you're considering a startup:**
+1. Review [Identified Gaps](/part-3-opportunities-and-gaps/02-identified-gaps.md)
+2. Study international case studies in Part 2
+3. Understand [Malaysian regulatory environment](/part-1-malaysian-landscape/04-regulations.md)
 
 ## 🤝 Contributing
 
-This is a community resource. Contributions welcome!
+This is a community resource for Malaysian healthcare practitioners and digital health enthusiasts.
 
-**How to contribute:**
-1. 🐛 **Report gaps**: Open an issue if you notice missing info
-2. ✍️ **Submit content**: Fork, write, and create a pull request
-3. 💡 **Suggest topics**: Let me know what you'd like to see covered
-4. 🔗 **Share resources**: Know a great paper/report? Share it!
+**Ways to contribute:**
+- 🐛 **Report gaps**: Open an issue if information is missing or outdated
+- ✍️ **Add content**: Submit a pull request with new sections or case studies
+- 💡 **Suggest topics**: Let me know what you'd like to see covered
+- 🔗 **Share resources**: Know a great paper or case study? Add it!
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## 📊 Project Status
+
+**Current Phase:** Active development
+- **Documents:** 25+ and growing
+- **Last Updated:** February 2026
+- **Contributors:** 1 (looking for more!)
+
+See [Changelog](/updates/changelog.md) for recent updates.
 
 ## 📬 Stay Updated
 
-- ⭐ **Star this repo** to get notified of updates
-- 👁️ **Watch releases** for major updates
-- 🔔 **Follow on LinkedIn**: [Tan Meng Yang](https://linkedin.com/in/tan-meng-yang-b44806205)
-
-## 📄 License
-
-This repository is licensed under [CC BY 4.0](LICENSE) - free to use with attribution.
+- ⭐ **Star this repo** to receive updates
+- 🔔 **Watch releases** for major milestones
+- 📖 **Read on GitBook** for better experience: [Link coming soon]
+- 💼 **Follow on LinkedIn**: [Tan Meng Yang](https://linkedin.com/in/tan-meng-yang-b44806205)
 
 ## 👨‍⚕️ About the Curator
 
-Created and maintained by **Dr. Tan Meng Yang**:
+**Dr. Tan Meng Yang**
 - MBBS (Melaka Manipal Medical College)
 - Master's in Health Informatics (IMU, 2026)
 - Former Medical Officer, Hospital Melaka
-- Researching computer vision for stroke rehabilitation
+- Researching: Computer vision for stroke rehabilitation
 
-**Why I built this:**  
-During my transition from clinical medicine to health tech, I struggled to find comprehensive, Malaysia-focused resources. This hub is what I wish existed when I started.
+**Why I created this:**
+
+During my transition from clinical medicine to health informatics, I struggled to find comprehensive, Malaysia-focused resources on digital health. This guide is what I wish existed when I started my journey.
+
+My goal is to make digital health knowledge accessible to Malaysian healthcare practitioners who, like me, are curious about the intersection of medicine and technology.
 
 **Connect:**
 - 📧 Email: tanmengyang98@gmail.com
 - 💼 LinkedIn: [Tan Meng Yang](https://linkedin.com/in/tan-meng-yang-b44806205)
 - 🐙 GitHub: [@tanmengyang98](https://github.com/tanmengyang98)
 
+## 📄 License
+
+This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) - free to use with attribution.
+
+## 🙏 Acknowledgments
+
+- Malaysian digital health practitioners and founders who shared insights
+- International Medical University (IMU) for health informatics education
+- Global digital health community for inspiration
+
 ---
+
+*Empowering Malaysian healthcare practitioners to understand and shape the future of digital health.* 🇲🇾💙
+
+**Last updated:** February 2026 | [View Changelog](/updates/changelog.md)
 
 **Last Updated:** February 2026 | **Total Documents:** 50+ | **Contributors:** 1 (looking for more!)
 
